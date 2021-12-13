@@ -7,7 +7,7 @@ dnspython==1.11.1
 ipython==2.3.1
 ipython-genutils==0.1.0
 Jinja2==2.10.1
-lxml==3.3.3
+lxml==4.6.5
 Markdown==2.6.5
 mysql-connector-python==1.1.6
 MySQL-python==1.2.5

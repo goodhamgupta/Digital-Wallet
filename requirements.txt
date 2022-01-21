@@ -4,7 +4,7 @@ django-filter==0.12.0
 django-transaction-hooks==0.2
 djangorestframework==3.3.2
 dnspython==1.11.1
-ipython==2.3.1
+ipython==7.16.3
 ipython-genutils==0.1.0
 Jinja2==2.10.1
 lxml==3.3.3
